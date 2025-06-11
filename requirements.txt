@@ -1,7 +1,4 @@
-matplotlib==3.7.1
-numpy==1.26.4
-pandas==2.2.2
-streamlit==1.35.0  # Or any version you need
-# In your `packages.txt` (if on Streamlit Cloud or similar):
-python==3.10
-scikit-learn
+matplotlib
+numpy
+pandas
+streamlit
